@@ -1,1 +1,1 @@
-# framework-freemaker 目前解决String的解析方式，解决了时间戳解析方式。
+#  请看说明文档. 位置-> framework-freemaker -> 说明文档
